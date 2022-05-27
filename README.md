@@ -4,7 +4,7 @@ Wildix Integration is a PHP HTTP client that makes it easy to send HTTP requests
 trivial to integrate with web services.
 
 ```bash
-$ composer require wildix/s2s-client-php
+$ composer require pavel-struk/s2s-client-php
 ```
 ## Example 
 
